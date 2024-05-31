@@ -1,0 +1,81 @@
+h1 {
+    color: rgb(130, 130, 130);
+    font-size: 36pt;
+    margin-bottom: 20pt;
+}
+
+.titleTextPreview>h1,
+.titleTextPreview>p {
+    color: rgb(255, 255, 255);
+}
+
+p,
+a,
+h1,
+h2,
+h3,
+h4,
+ol {
+    font-family: Century Gothic;
+}
+
+a:hover {
+    color: rgb(132, 164, 190);
+    font-weight: bold;
+}
+
+a:hover>h2,
+a:hover>h3,
+a:hover>h4 {
+    color: rgb(130, 130, 130);
+}
+
+.menuBlock>ol>li>a,
+.menuBlock>ol>li>ol>li>a,
+.menuBlock>ol>li>ol>a {
+    text-decoration: none;
+}
+
+h2 {
+    font-size: 32pt;
+    margin-bottom: 10pt;
+    margin-top: 10pt;
+}
+
+h3 {
+    font-size: 24pt;
+    margin-top: 0pt;
+}
+
+h4 {
+    font-size: 14t;
+}
+
+p {
+    font-size: 14pt;
+}
+
+a {
+    color: rgb(130, 130, 130);
+    font-size: 12pt;
+}
+
+.ref>h4 {
+    margin-bottom: 0pt;
+}
+
+.ref>p {
+    margin-top: 0pt;
+}
+
+.descriptionImg {
+    font-size: 10pt;
+    color: rgb(130, 130, 130);
+    margin-bottom: 35pt;
+    text-align: center;
+}
+
+.descriptionMenu {
+    font-size: 10pt;
+    margin-bottom: 5pt;
+}

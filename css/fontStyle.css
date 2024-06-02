@@ -1,3 +1,8 @@
+@font-face {
+	font-family: 'Font'; 
+	src: url(../font/GOTHIC.TTF); 
+}
+
 h1 {
     color: rgb(130, 130, 130);
     font-size: 36pt;
@@ -16,7 +21,7 @@ h2,
 h3,
 h4,
 ol {
-    font-family: Century Gothic;
+    font-family: 'Font';
 }
 
 a:hover {
